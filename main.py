@@ -86,3 +86,6 @@ def main():
     print(f'Number of elements of Vector C: {output}')
 
 main()
+
+input("\nPress any key to terminate the program ")
+print("See you later")
