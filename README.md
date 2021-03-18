@@ -3,7 +3,7 @@ A small program made in 2017 that receives two vectors A and B and orderly rearr
 
 ### Original Work
 
-Copyright (c) 2017 mkjwdev
+Copyright (c) 2017 Martino Kang
 
 ## Running locally
 
